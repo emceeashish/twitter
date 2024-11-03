@@ -21,5 +21,26 @@ Sentiment Analysis is a widely used application of data science, particularly fo
 
 ## Installation
 To run this project, install the following libraries:
+
 ```bash
 pip install numpy pandas matplotlib seaborn tensorflow keras streamlit
+Running the Application
+This project is implemented using Streamlit for an interactive web interface.
+
+To run the Streamlit app, use the following command:
+
+bash
+Copy code
+streamlit run app.py
+After running the command, open the provided local URL in a browser to interact with the sentiment analysis model.
+
+Usage
+Data Preparation: Load and preprocess the dataset.
+Model Training: Train the LSTM model on the preprocessed data.
+Prediction: Use the trained model to predict sentiments for new data.
+Results
+The LSTM model achieved an accuracy of 86%, indicating robust performance in sentiment classification.
+
+Acknowledgments
+Dataset: Twitter Sentiment Dataset on Kaggle
+Image Source: MonkeyLearn
