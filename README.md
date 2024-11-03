@@ -1,4 +1,4 @@
-Sentiment Analysis Using Deep Learning:
+Sentiment Analysis Using Deep Learning
 Executive Summary
 Topic: Sentiment Analysis using Deep Learning
 Deep Learning Model: Long Short-Term Memory (LSTM)
